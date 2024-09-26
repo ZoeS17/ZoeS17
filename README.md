@@ -1,7 +1,6 @@
 ### Hi there, I'm Zoe.
 
 ## I'm a soon-to-be wife and Developer
-- I'm currently working on [Trigedasleng.net][website]
 - I'm currently learning that one iorn-oxide language...
 - I'm looking to collaborate with other developers
 - Fun fact: I'm also an Xbox <img alt="Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/xbox.svg"> gamer
@@ -33,5 +32,4 @@
 
 <img align="left" alt="Zoe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZoeS17&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/ProjectArkadiaTeam/trigedasleng
 [discord]: https://discordapp.com/users/99839741427453952
