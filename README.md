@@ -28,8 +28,4 @@
 <br />
 <br />
 
-----
-
-<img align="left" alt="Zoe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZoeS17&show_icons=true&hide_border=true" />
-
 [discord]: https://discordapp.com/users/99839741427453952
